@@ -10,7 +10,7 @@ Lets get started!
 
 [Thingy:91](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-91/Download) if IoT device based on nRF9160 SIP LTE modem and nRF52840 SoC for Bluetooth communication.
 
-User application is run by nRF9160. To make your custom app you need to download nRF SDK. In future commits I will made detailed step-by-step guide how to get started with nRF SDK.
+User application is run by nRF9160. To make your custom app you need to download nRF SDK. In future commits I will made detailed step-by-step guide on how to get started with nRF SDK.
 
 ## Serial Ports of Thingy:91
 
